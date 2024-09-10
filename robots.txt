@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iverable.github.io/sitemap.html.gz
+Sitemap: https://iverable.github.io/app/sitemap.html.gz
+Sitemap: https://iverable.github.io/assets/sitemap.html.gz
+Sitemap: https://iverable.github.io/css/sitemap.html.gz
+Sitemap: https://iverable.github.io/includes/sitemap.html.gz
+Sitemap: https://iverable.github.io/item/sitemap.html.gz
+Sitemap: https://iverable.github.io/src/sitemap.html.gz
